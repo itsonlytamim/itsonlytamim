@@ -30,7 +30,7 @@ I'm always eager to connect with fellow developers and professionals. Feel free 
 
 <!-- Add your GitHub stats using the GitHub Readme Stats tool -->
 
-![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsonlytamim&show_icons=true&theme=radical)
+![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsonlytamim&show_icons=true&&include_all_commits=true&theme=radical)
 
 ![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsonlytamim&show_icons=true&theme=radical&custom_title=GitHub%20Stats)
 

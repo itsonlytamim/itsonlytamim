@@ -32,6 +32,9 @@ I'm always eager to connect with fellow developers and professionals. Feel free 
 
 ![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsonlytamim&show_icons=true&theme=radical)
 
+![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsonlytamim&show_icons=true&theme=radical&custom_title=GitHub%20Stats)
+
+
 ## 🏆 GitHub Trophies
 
 <!-- Add your GitHub trophies using the GitHub Profile Trophy tool -->

@@ -23,6 +23,9 @@ As a fresher, I believe in the importance of continuous learning. Currently, I'm
 
 I'm always eager to connect with fellow developers and professionals. Feel free to reach out to me through the following channels:
 
+- LinkedIn: [Md Shamiul Islam Tamim](https://www.linkedin.com/in/itsonlytamim)
+- Twitter: [@itsonlytamim](https://twitter.com/itsonlytamim)
+
 ## ✨ GitHub Stats
 
 <!-- Add your GitHub stats using the GitHub Readme Stats tool -->

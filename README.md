@@ -3,7 +3,7 @@
 <!-- Add a brief introduction about yourself -->
 ## 🌱 About Me
 
-I recently graduated with a degree in Computer Science and I'm excited to apply my knowledge and skills to real-world projects. Although I'm a fresher, I have a solid foundation in programming concepts and have worked on various projects during my academic journey.
+I am at my final semester in my bachelors degree in Computer Science and I'm excited to apply my knowledge and skills to real-world projects. Although I'm a fresher, I have a solid foundation in programming concepts and have worked on various projects during my academic journey.
 
 ## 🔭 Technologies and Tools
 

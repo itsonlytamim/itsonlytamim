@@ -10,10 +10,10 @@ I am in my final semester of my bachelor's degree in Computer Science, and I'm e
 <!-- Add the technologies and tools you work with -->
 
 - Programming Languages: Python, JavaScript , C#
-- Frameworks: Asp.Net, React.js , node.js
-- Databases: MySQL
+- Frameworks: Asp.Net, Django
+- Databases: MySql
 - Version Control: Git, GitHub
-- Other Tools: VS Code, Docker
+- Other Tools: VS Code, VS
 
 ## 📚 Learning Path
 

@@ -21,23 +21,6 @@ As a fresher, I believe in the importance of continuous learning. Currently, I'm
 
 - LinkedIn: [Md Shamiul Islam Tamim](https://www.linkedin.com/in/itsonlytamimm/)
 
-<!--## ✨ GitHub Stats
-
-
-![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsonlytamim&show_icons=true&theme=radical&custom_title=GitHub%20Stats%20-%20Year%20by%20Year)
-
- ![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsonlytamim&show_icons=true&theme=radical&custom_title=GitHub%20Stats)
-
-![- Year by Year](https://github-readme-stats.vercel.app/api?username=itsonlytamim&show_icons=true&theme=radical&custom_title=GitHub%20Stats%20-%20Year%20by%20Year&include_all_commits=true&count_private=true&hide=stars,issues)
--->
-
-
-## 🏆 GitHub Trophies
-
-
-![Tamim's GitHub trophies](https://github-profile-trophy.vercel.app/?username=itsonlytamim)
-
-
 ## 💼 Open to Opportunities
 
 I'm actively seeking opportunities to collaborate on meaningful projects or internships that will allow me to contribute my skills and learn from experienced professionals. If you have any exciting opportunities or would like to discuss a potential collaboration, please feel free to get in touch!

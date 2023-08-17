@@ -32,7 +32,7 @@ I'm always eager to connect with fellow developers and professionals. Feel free 
 
 ![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsonlytamim&show_icons=true&theme=radical&custom_title=GitHub%20Stats%20-%20Year%20by%20Year)
 
-<!--  ![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsonlytamim&show_icons=true&theme=radical&custom_title=GitHub%20Stats)
+ ![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsonlytamim&show_icons=true&theme=radical&custom_title=GitHub%20Stats)
 
 ![- Year by Year](https://github-readme-stats.vercel.app/api?username=itsonlytamim&show_icons=true&theme=radical&custom_title=GitHub%20Stats%20-%20Year%20by%20Year&include_all_commits=true&count_private=true&hide=stars,issues)-->
 

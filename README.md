@@ -19,7 +19,7 @@ As a fresher, I believe in the importance of continuous learning. Currently, I'm
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Md Shamiul Islam Tamim](https://www.linkedin.com/in/itsonlytamimm/)]
+- LinkedIn: [Md Shamiul Islam Tamim](https://www.linkedin.com/in/itsonlytamimm/)
 
 <!--## ✨ GitHub Stats
 

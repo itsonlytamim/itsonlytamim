@@ -7,9 +7,9 @@ I am in my final semester of my bachelor's degree in Computer Science, and I'm e
 ## 🔭 Technologies and Tools
 
 
-- Programming Languages: Python, JavaScript , C#
-- Frameworks: Asp.Net, Django , .Net
-- Databases: MS Sql
+- Programming Languages: JavaScript , C#
+- Frameworks: Asp.Net Core, AngularJs
+- Databases: MS Sql Server, Mysql, MongoDb
 - Version Control: Git, GitHub
 - Other Tools: VS Code, VS
 

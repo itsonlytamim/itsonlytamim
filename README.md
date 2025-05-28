@@ -2,7 +2,7 @@
 
 ## 🌱 About Me
 
-I am in my final semester of my bachelor's degree in Computer Science, and I'm excited to apply my knowledge and skills to real-world projects. Although I'm a fresher, I have a solid foundation in programming concepts and have worked on various projects during my academic journey.
+I am a Full stack developer working on .Net , Angular and Sql Server , and I'm excited to apply my knowledge and skills to real-world projects. Although I'm a fresher, I have a solid foundation in programming concepts and have worked on various projects during my academic journey.
 
 ## 🔭 Technologies and Tools
 
